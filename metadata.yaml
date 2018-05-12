@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Abby_Morton_Diaz
 description: Letters written by a ten-year old boy from boarding school, at the end
   of the Civil War, depicting American home and school life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34335#The-William-Henry-Letters
 gutenberg_issued: '2010-11-15'
 gutenberg_type: Text
 identifiers:
